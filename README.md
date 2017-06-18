@@ -35,3 +35,11 @@ Pycharm IDE's auto complete and document definition viewer work properly.
 ![pycharm config](py3pycharm.png)
 
 ![pycharm ide](pycharmsdk.png)
+
+
+Optional Markdown Navigator
+---------------------------
+
+![plugin](./plugin.png)
+
+![plugin](./markdownnavigator.png)
